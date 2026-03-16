@@ -27,7 +27,7 @@ ENTITLED is a cybersecurity-focused full-stack application implementing a **Zero
 - PostgreSQL (Database)
 - Alembic (Migrations)
 - Argon2 (Password hashing)
-- AES-256/Fernet (Data encryption)
+- AES-256(Data encryption)
 - PyOTP (TOTP MFA)
 - JWT (Authentication tokens)
 
