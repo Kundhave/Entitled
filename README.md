@@ -7,7 +7,7 @@ ENTITLED is a cybersecurity-focused full-stack application implementing a **Zero
 -  AES-256 encryption for all sensitive vault records
 -  Argon2 password hashing with automatic salting
 -  TOTP-based Multi-Factor Authentication (Microsoft Authenticator compatible)
--  Time-bound privilege sessions (exactly 3 minutes)
+-  Time-bound privilege sessions (exactly 2 minutes)
 -  Role-Based Access Control (RBAC)
 -  Comprehensive audit logging
 -  JWT-based authentication
