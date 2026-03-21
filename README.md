@@ -1,5 +1,4 @@
 # ENTITLED - Secure Financial Vault with Privileged Access Management
-
 ## 🔐 Overview
 
 ENTITLED is a cybersecurity-focused full-stack application implementing a **Zero Trust** privileged access management system for financial data. The system enforces strict security controls including:
